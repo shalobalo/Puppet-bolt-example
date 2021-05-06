@@ -1,0 +1,1 @@
+# Puppet-bolt-example
